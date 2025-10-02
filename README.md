@@ -1,11 +1,8 @@
+# UKM HIMAPALA
 
-  # Hiking Organization Website Design
+## Running codenya ea
 
-  This is a code bundle for Hiking Organization Website Design. The original project is available at https://www.figma.com/design/aGY6QF1CNofbE3YPWxAYVn/Hiking-Organization-Website-Design.
+Run `npm i` to install the dependencies.
 
-  ## Running the code
+Run `npm run dev` to start the development server.
 
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
